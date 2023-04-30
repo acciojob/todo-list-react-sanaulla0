@@ -1,1 +1,47 @@
+.add_tasks_section{
+ background-color: rgb(231, 234, 236);
+}
+.add_tasks_section input{
+   width: 70%;
+   height: 30px;
+   border: 2px solid black;
+   margin: 5px;
+}
+.add_tasks_section button{
+ width: 80px;
+ height: 30px;
+ background-color: skyblue
+}
+h1{
+ text-align: center;
+}
+.tasks_section{
+    background-color:rgb(231, 234, 236);
+    margin-top: 10%;
+   
+}
+.task{
+ background-color:rgb(231, 234, 236);
 
+}
+.input{
+ width: 80%;
+ height: 30px;
+ padding: 2px;
+ margin: 5px;
+}
+.edit{
+ width: 100px;
+ background-color: green;
+ margin-left: 30%;
+ 
+}
+.delete{
+ width: 100px;
+ background-color: red;
+ margin-left: 5%;
+}
+.save{
+ width: 100px;
+ background-color: green;
+}
